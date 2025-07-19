@@ -1,0 +1,16 @@
+Daftar Pekerajaan 
+1. Latihan membuat aplikasi penjualan dengan fluter
+-Membuat struktur dasar aplikasi.
+-Menampilkan daftar produk sederhana dengan ListView.builder.
+-Menampilkan gambar, nama, dan harga produk.
+-Mengatur warna AppBar.
+2. Latihan membuat AppBar
+- latihan membuat Style pada widget
+- latihan membuat Card dan parsing data
+- belajar Navigation
+- belajar membuat tabbar
+- belajar menampilkan gambar atau foto dari local dan dari internet
+- belajar membuat nabar
+- belajar membuat listview
+- belajar parsing data dari json
+- belajar membuat drawer menu bar
